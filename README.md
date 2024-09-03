@@ -10,5 +10,8 @@ Resources for teachers and parents looking at alternative methods to teach kids.
 - [Beast Academy](https://beastacademy.com/)
 - [Math For Love](https://mathforlove.com/)
 
-### Programming
+
+### Programming and Hardware
 - [Scratch](https://scratch.mit.edu/)
+- [Hack Club](https://hackclub.com/)
+    * [Blot The Plotter Bot](https://blot.hackclub.com/)
